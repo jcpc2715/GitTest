@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+primero somos los caseros
+=======
+hola inicio programa
+>>>>>>> Modificacion
